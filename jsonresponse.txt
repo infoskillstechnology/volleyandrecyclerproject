@@ -1,0 +1,37 @@
+{
+  "Status": true,
+  "Error": "",
+  "Message": "Data retrieved successfully",
+  "LocationMaster": [
+    {
+      "LocationName": "gfhsfgh",
+      "LocationID": "1",
+      "Latitude": "26.893356",
+      "Longitude": "75.813650"
+    },
+    {
+      "LocationName": "fgvhbfdghb",
+      "LocationID": "4",
+      "Latitude": "26.902688",
+      "Longitude": "75.793716"
+    },
+    {
+      "LocationName": "dfgdfg",
+      "LocationID": "5",
+      "Latitude": "26.903486",
+      "Longitude": "75.792217"
+    },
+    {
+      "LocationName": "fghdf",
+      "LocationID": "7",
+      "Latitude": "26.856152",
+      "Longitude": "75.807036"
+    },
+    {
+      "LocationName": "tuhykyruiktu",
+      "LocationID": "10",
+      "Latitude": "26.856622",
+      "Longitude": "75.805848"
+    }
+  ]
+}
